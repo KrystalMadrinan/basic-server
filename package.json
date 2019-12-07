@@ -1,0 +1,23 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "this is a basic server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrystalMadrinan/basic-server.git"
+  },
+  "author": "Krystal Madrinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrystalMadrinan/basic-server/issues"
+  },
+  "homepage": "https://github.com/KrystalMadrinan/basic-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
